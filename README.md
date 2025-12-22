@@ -112,15 +112,11 @@ Bu proje, **optimizasyon algoritmaları**, **sezgisel yöntemler** ve
 
 ---
 
-## ✍️ Geliştirici
+## Öğrenci Bilgileri
 
 **Lütfi Arda Karaoğlu**
 **2212721038**
 Bilgisayar Mühendisliği Öğrencisi
 Isparta Uygulamalı Bilimler Üniversitesi
 
----
-
-## 📜 Lisans
-
-Bu proje **eğitim ve akademik amaçlarla** geliştirilmiştir.
+--
