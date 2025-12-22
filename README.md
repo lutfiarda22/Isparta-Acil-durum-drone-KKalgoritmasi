@@ -1,0 +1,1 @@
+# Isparta-Acil-durum-drone-KKalgoritmasi
