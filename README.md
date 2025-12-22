@@ -110,8 +110,6 @@ streamlit run main.py
 Bu proje, **optimizasyon algoritmaları**, **sezgisel yöntemler** ve
 **gerçek dünya problemlerinin modellenmesi** konularını kapsamaktadır.
 
-> Proje bireysel olarak geliştirilmiştir.
-
 ---
 
 ## ✍️ Geliştirici
