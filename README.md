@@ -118,5 +118,3 @@ Bu proje, **optimizasyon algoritmaları**, **sezgisel yöntemler** ve
 **2212721038**
 Bilgisayar Mühendisliği Öğrencisi
 Isparta Uygulamalı Bilimler Üniversitesi
-
---
