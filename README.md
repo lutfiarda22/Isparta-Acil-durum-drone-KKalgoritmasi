@@ -1,4 +1,4 @@
-# 🚁 Isparta Acil Durum Drone Rota Optimizasyonu (ACO)
+# Isparta Acil Durum Drone Rota Optimizasyonu (ACO)
 
 Bu projede, **Isparta il merkezinde** bulunan afet ve acil durum toplanma alanları arasında,
 **en kısa drone rotasını** bulmak amacıyla **Karınca Kolonisi Optimizasyonu (ACO)** algoritması kullanılmıştır.
@@ -7,7 +7,7 @@ Uygulama, **Streamlit** tabanlı bir arayüz üzerinden çalışmakta ve **Googl
 
 ---
 
-## 📌 Proje Amacı
+## Proje Amacı
 
 * Acil durumlarda bir dronun, belirlenen toplanma alanlarını **en kısa mesafe ile** dolaşmasını sağlamak
 * Karınca Kolonisi Optimizasyonu (ACO) algoritmasının **gerçek verilerle** uygulanmasını göstermek
@@ -15,7 +15,7 @@ Uygulama, **Streamlit** tabanlı bir arayüz üzerinden çalışmakta ve **Googl
 
 ---
 
-## 🧠 Kullanılan Yöntem
+## Kullanılan Yöntem
 
 ### Karınca Kolonisi Optimizasyonu (ACO)
 
@@ -61,7 +61,9 @@ Bu projede:
 ---
 
 ## ⚙️ Kurulum ve Çalıştırma
-
+---
+Anaconda prompt kullanarak yapınız.
+---
 ### 1️⃣ Gerekli kütüphaneleri yükleyin
 
 ```bash
@@ -102,15 +104,6 @@ streamlit run main.py
 * **İyileşme oranı (%)**
 * **Harita üzerinde rota**
 * **Adım adım mesafe tablosu**
-
----
-
-## 🎓 Akademik Kapsam
-
-Bu proje, **optimizasyon algoritmaları**, **sezgisel yöntemler** ve
-**gerçek dünya problemlerinin modellenmesi** konularını kapsamaktadır.
-
----
 
 ## Öğrenci Bilgileri
 
